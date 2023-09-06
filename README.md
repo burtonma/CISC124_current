@@ -9,7 +9,7 @@ The course notebooks are interactive Jupyter notebooks using the beakerx 1.x ker
 
 Students who are having difficulty installing Jupyter and the beakerx kernels can view the notebooks online:
 
-https://mybinder.org/v2/gh/burtonma/CISC124_2022F/HEAD?urlpath=notebooks%2Ftoc.ipynb
+https://mybinder.org/v2/gh/burtonma/CISC124_current/HEAD?urlpath=notebooks%2Ftoc.ipynb
 
 ## eclipse project
 
